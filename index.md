@@ -3,7 +3,7 @@
 ## https://tinyurl.com/dataskillz
 
 ### Open Refine practical (Please note that this is not a full course but is designed to demonstrate the value of this tool).
-1. Download the [data-file](https://raw.githubusercontent.com/bioinformatics-core-shared-training/PHD-Dataskills/master/example.csv?token=ADJJD7VXDDZ3ZXKAFI4KI4K5VGPLS) using a right-click download (Ctrl-click on Mac).
+1. Download the [data-file](https://raw.githubusercontent.com/bioinformatics-core-shared-training/PHD-Dataskills/master/example.csv?token=ADJJD7VXDDZ3ZXKAFI4KI4K5VGPLS) using a right-click download and save link/target as option (Ctrl-click on Mac).
 2. Run OpenRefine, create a new project and navigate to the example.csv file. OR should
 be able to read it in with it's default options. Click to create project.
 3. Experiment with scrolling through the file. How many rows and columns are there in the file? Can you spot any problems within the data?
