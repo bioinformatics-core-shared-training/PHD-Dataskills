@@ -2,6 +2,10 @@
 
 ## https://tinyurl.com/dataskillz
 
+[Session Slide-deck](https://raw.githubusercontent.com/bioinformatics-core-shared-training/PHD-Dataskills/master/Data-skills-workshop.pdf)
+
+[Openrefine download, install instructions & videos](http://openrefine.org)
+
 ### Open Refine practical (Please note that this is not a full course but is designed to demonstrate the value of this tool).
 1. Download the [data-file](https://raw.githubusercontent.com/bioinformatics-core-shared-training/PHD-Dataskills/master/example.csv?token=ADJJD7VXDDZ3ZXKAFI4KI4K5VGPLS) using a right-click download and save link/target as option (Ctrl-click on Mac).
 2. Run OpenRefine, create a new project and navigate to the example.csv file. OR should
