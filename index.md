@@ -12,3 +12,4 @@ be able to read it in with it's default options. Click to create project.
 6. Use a text facet to find out how many different units are recorded in the data.
 With a bit more OR training it should be possible to achieve more homogeneous units by using advice like [this - see pages 6&7](https://www.fda.gov/media/72309/download).
 
+### [James' data files] (https://github.com/bioinformatics-core-shared-training/PHD-Dataskills) Go here and select the excel files and you will then have a download option.   
