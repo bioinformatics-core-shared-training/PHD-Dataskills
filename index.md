@@ -4,7 +4,7 @@
 
 [Session Slide-deck](https://raw.githubusercontent.com/bioinformatics-core-shared-training/PHD-Dataskills/master/Data-skills-workshop.pdf)
 
-[James' slidedeck](https://github.com/bioinformatics-core-shared-training/PHD-Dataskills/blob/6425b62f2579ae488cb8c070e1d7a94ccfa8b710/2021-10-12%20CC%20Data%20handling.pptx)
+[James' slidedeck](https://raw.githubusercontent.com/bioinformatics-core-shared-training/PHD-Dataskills/master/2021-10-12 CC Data handling.pdf)
 
 [Openrefine download, install instructions & videos](http://openrefine.org)
 
