@@ -4,6 +4,8 @@
 
 [Session Slide-deck](https://raw.githubusercontent.com/bioinformatics-core-shared-training/PHD-Dataskills/master/Data-skills-workshop.pdf)
 
+[James' slidedeck](https://github.com/bioinformatics-core-shared-training/PHD-Dataskills/blob/6425b62f2579ae488cb8c070e1d7a94ccfa8b710/2021-10-12%20CC%20Data%20handling.pptx)
+
 [Openrefine download, install instructions & videos](http://openrefine.org)
 
 ### Open Refine practical (Please note that this is not a full course but is designed to demonstrate the value of this tool).
